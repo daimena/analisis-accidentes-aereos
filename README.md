@@ -87,6 +87,11 @@ Como resultado de los analisis realizados, se crean columnas que permiten catego
 
 El dashboard realizado contiene como eje principal de analisis la observacion de los datos enfocada en la prevencion de accidentes aereos. Para esto, se tomaron en cuenta dos KPIs y se realizaron graficas que acompañan a estos.
 
+![Dashboard1](dashboard1.jpg)
+
+![Dashboard2](dashboard2.jpg)
+
+
 ## KPIs:
 1.  **Evaluar la disminución de un 10% la tasa de fatalidad de la tripulación en la década del 2010, comparado con la década del 2000.**
 
